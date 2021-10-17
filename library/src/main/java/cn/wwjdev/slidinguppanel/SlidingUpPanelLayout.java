@@ -1,4 +1,4 @@
-package com.wen.slidinguppannel;
+package cn.wwjdev.slidinguppanel;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -24,7 +24,6 @@ import android.view.animation.Interpolator;
 import androidx.core.view.MotionEventCompat;
 import androidx.core.view.ViewCompat;
 
-import com.wen.slidinguppanel.R;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;

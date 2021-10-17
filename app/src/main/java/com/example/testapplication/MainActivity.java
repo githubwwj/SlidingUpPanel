@@ -17,9 +17,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.wen.slidinguppannel.SlidingUpPanelLayout;
-import com.wen.slidinguppannel.SlidingUpPanelLayout.PanelSlideListener;
-import com.wen.slidinguppannel.SlidingUpPanelLayout.PanelState;
+import cn.wwjdev.slidinguppanel.SlidingUpPanelLayout;
+import cn.wwjdev.slidinguppanel.SlidingUpPanelLayout.PanelSlideListener;
+import cn.wwjdev.slidinguppanel.SlidingUpPanelLayout.PanelState;
 
 import java.util.Arrays;
 import java.util.List;

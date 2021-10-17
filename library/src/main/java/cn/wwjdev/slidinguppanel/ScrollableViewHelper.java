@@ -1,4 +1,4 @@
-package com.wen.slidinguppannel;
+package cn.wwjdev.slidinguppanel;
 
 
 import android.view.View;

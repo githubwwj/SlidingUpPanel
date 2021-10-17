@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.wen.slidinguppannel.SlidingUpPanelLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<cn.wwjdev.slidinguppanel.SlidingUpPanelLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:sothree="http://schemas.android.com/apk/res-auto"
     android:id="@+id/sliding_layout"
     android:layout_width="match_parent"
@@ -94,4 +94,4 @@
 
     </LinearLayout>
 
-</com.wen.slidinguppannel.SlidingUpPanelLayout>
+</cn.wwjdev.slidinguppanel.SlidingUpPanelLayout>
