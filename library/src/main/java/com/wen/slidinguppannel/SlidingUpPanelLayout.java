@@ -24,7 +24,7 @@ import android.view.animation.Interpolator;
 import androidx.core.view.MotionEventCompat;
 import androidx.core.view.ViewCompat;
 
-import com.sothree.slidinguppanel.R;
+import com.wen.slidinguppanel.R;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
